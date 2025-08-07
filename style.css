@@ -1,0 +1,50 @@
+/* styles.css - With your custom colors */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.container {
+    background-color: #7BEFD3;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.weather-display {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    min-height: 200px;
+    border: 2px solid #4949B0;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: #4949B0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #4949B0;
+    margin-top: 0;
+}
+
+p {
+    margin: 10px 0;
+    color: #333;
+}
+
+small {
+    color: #4949B0;
+    font-style: italic;
+}
